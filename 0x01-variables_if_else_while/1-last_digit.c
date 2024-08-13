@@ -1,11 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - entry point*/
-
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/** main - entry point
+ *
+ * Description : print the value of n stat: * greater than, is zero and is not less 
+ * than 6.
+ *
+ * return : always (0)*/
 int main(void)
 {
 	int n;
